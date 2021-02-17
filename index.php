@@ -1,4 +1,4 @@
 </<?php 
 
-include 'src'.DIRECTORY_SEPARATO.'core.php';
+include 'src'.DIRECTORY_SEPARATOR.'core.php';
 
